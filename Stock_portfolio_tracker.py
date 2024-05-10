@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'RXJFOR4CL99XUXCJ'
+API_KEY = '' // add your own api key here
 
 
 def get_stock_price(symbol):
